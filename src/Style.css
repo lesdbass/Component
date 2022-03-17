@@ -1,0 +1,45 @@
+body {
+    /* background-color: #001f3f ; */
+    background-image: url('/src/Component/Profile/bg.jpg');
+    background-size: 100% auto;
+}
+.hwhite {
+    color : white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+.divflex
+{
+    margin-top: 50px;
+    display :flex ;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.cadrepicture {
+    border-radius : 50px 100px;
+}
+
+.pad {
+    color:brown;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 14pt;
+    text-align: center;
+    
+
+}
+
+.Boxp {
+
+    margin: auto;
+    width: 30%;
+    border: 3px solid blue ;
+    padding: 10px;
+    
+    background-color: antiquewhite;
+    border-radius: 50px;
+    text-align:  center;
+    
+
+}
